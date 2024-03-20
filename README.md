@@ -7,7 +7,7 @@ https://www.arduino.cc/reference/en/libraries/ads1256/
 
 ADS Board - Arduino UNO Board
 
-5V - 5V
+Vcc (5V) - 5V
 
 GND - GND
 
